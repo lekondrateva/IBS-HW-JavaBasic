@@ -15,5 +15,7 @@ public class Main {
         Operators.printAvg();
         //Задание №5 - калькулятор
         Calculator.calculate();
+        //Задание №6 - конвертер массы и расстояния
+        Converter.convert();
     }
 }
