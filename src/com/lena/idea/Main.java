@@ -1,5 +1,7 @@
 package com.lena.idea;
 
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello World!");
@@ -8,5 +10,7 @@ public class Main {
         MyArrays myArrays = new MyArrays();
         myArrays.swapFirstAndLast(array1);
         myArrays.sumFirstAndMid(array1);
+        //Задание №4 - операторы
+        Operators.printAvg();
     }
 }
