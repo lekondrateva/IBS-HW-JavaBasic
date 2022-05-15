@@ -25,11 +25,10 @@ public class Calculator {
             case '/':
                 if (y != 0) {
                     System.out.println("Результат " + (x / y));
-                    break;
                 } else {
                     System.out.println("Нельзя разделить на 0");
-                    break;
                 }
+                break;
         }
     }
 }
