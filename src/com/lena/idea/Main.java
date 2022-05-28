@@ -9,5 +9,7 @@ public class Main {
         ConstInArray.findConstant(x, y, z);
         // Задание №8
         SumOdd.sumOddNums();
+        // Задание №9
+        AVG_Arrays.avgOfArray();
     }
 }
