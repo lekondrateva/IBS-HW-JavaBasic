@@ -18,5 +18,7 @@ public class Main {
         // Задание №12
         String str = "I like Java!!!";
         ILikeJava.checkTheLine(str);
+         //Задание №14
+        RandomInArray.fillAndCheck();
     }
 }
