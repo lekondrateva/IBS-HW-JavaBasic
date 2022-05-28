@@ -11,5 +11,7 @@ public class Main {
         SumOdd.sumOddNums();
         // Задание №9
         AVG_Arrays.avgOfArray();
+        // Задание №10
+        TwoDimArray.printFirstLineOfArray();
     }
 }
