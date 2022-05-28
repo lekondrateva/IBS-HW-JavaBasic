@@ -1,7 +1,5 @@
 package com.lena.idea;
 
-import java.io.IOException;
-
 public class Main {
     public static void main(String[] args) {
         // Задание №7
@@ -9,5 +7,7 @@ public class Main {
         int y = 5;
         int z = 9;
         ConstInArray.findConstant(x, y, z);
+        // Задание №8
+        SumOdd.sumOddNums();
     }
 }
