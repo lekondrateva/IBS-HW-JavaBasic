@@ -13,5 +13,7 @@ public class Main {
         AVG_Arrays.avgOfArray();
         // Задание №10
         TwoDimArray.printFirstLineOfArray();
+        // Задание №11
+        CompareStringInt.compare();
     }
 }
