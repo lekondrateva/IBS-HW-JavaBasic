@@ -15,5 +15,8 @@ public class Main {
         TwoDimArray.printFirstLineOfArray();
         // Задание №11
         CompareStringInt.compare();
+        // Задание №12
+        String str = "I like Java!!!";
+        ILikeJava.checkTheLine(str);
     }
 }
