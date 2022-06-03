@@ -4,5 +4,7 @@ public class Main {
     public static void main(String[] args) {
         // Итоговая задача №1
         UsdRurConverter.convertRurToUsd();
+        // Итоговая задача №2
+        Equation.resolve();
     }
 }
