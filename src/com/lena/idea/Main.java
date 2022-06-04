@@ -8,5 +8,7 @@ public class Main {
         Equation.resolve();
         //Задание №13
         LatSymbols.printOnlyLatWords();
+        // Итоговая задача №3
+        MaxVariousSymbols.printWords();
     }
 }
