@@ -6,5 +6,7 @@ public class Main {
         UsdRurConverter.convertRurToUsd();
         // Итоговая задача №2
         Equation.resolve();
+        //Задание №13
+        LatSymbols.printOnlyLatWords();
     }
 }
