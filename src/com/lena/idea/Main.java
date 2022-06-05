@@ -10,5 +10,7 @@ public class Main {
         LatSymbols.printOnlyLatWords();
         // Итоговая задача №3
         MaxVariousSymbols.printWords();
+        // Итоговая задача №4
+        Puzzle.dedPuzzle();
     }
 }
